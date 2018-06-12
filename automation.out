@@ -1,0 +1,5 @@
+2018-06-10 23:49:07 INFO  loginTest:45 - ****Starting Verfiy Login Page****
+2018-06-10 23:50:11 INFO  LoginPage:37 - click on SignIn button and object is:- Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='container clearfix']/div[2]/a[1]'
+2018-06-10 23:50:12 INFO  LoginPage:39 - entered the email address:- 14deepak07@gmail.com and object is [[FirefoxDriver: firefox on XP (3858bc5a-e367-4f2c-b35b-fdc159516001)] -> id: text1]
+2018-06-10 23:50:13 INFO  LoginPage:41 - entered the password:- qwerty and object is [[FirefoxDriver: firefox on XP (3858bc5a-e367-4f2c-b35b-fdc159516001)] -> id: password_show]
+2018-06-10 23:51:20 INFO  LoginPage:44 - Click on Submit button:- Proxy element for: DefaultElementLocator 'By.className: sign-on-in'
